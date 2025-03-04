@@ -82,4 +82,4 @@ This project addresses the following key functionalities:
 
 - Users have the necessary permissions to deploy and test the solutions.
 - The data model for `Account`, `Contact`, and `Opportunity` follows standard Salesforce structures.
-- Security roles (Relationship Manager, Customer Service Agent) are predefined in the system.
+  
