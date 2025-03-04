@@ -11,7 +11,6 @@ This repository contains the implementation of a Salesforce Developer case study
   - [Requirement 4: Security and Access Control](#requirement-4-security-and-access-control)
 - [Setup Instructions](#setup-instructions)
 - [Assumptions](#assumptions)
-- [License](#license)
 
 ## Project Overview
 This project implements the required solutions in a Salesforce Developer Org. The key functionalities include:
