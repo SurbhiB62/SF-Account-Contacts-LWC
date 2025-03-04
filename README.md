@@ -53,5 +53,3 @@ This project implements the required solutions in a Salesforce Developer Org. Th
 - The data model for `Account`, `Contact`, and `Opportunity` follows standard Salesforce structure.
 - Security roles (Relationship Manager, Customer Service Agent) are predefined in the system.
 
-## License
-This project is for educational and demonstration purposes.
